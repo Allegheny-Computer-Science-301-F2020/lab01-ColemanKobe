@@ -5,7 +5,7 @@
 
 ### Article 1
  -  Article name.
- - How Your Digital Purchases Could Serve the Perfect Surveillance Network
+  - How Your Digital Purchases Could Serve the Perfect Surveillance Network
 
 -  Reference or article citation.
  - https://reason.com/2019/09/03/how-your-digital-purchases-could-serve-the-perfect-surveillance-network/
@@ -28,7 +28,7 @@
 
 ### Article 2
  -  Article name.
- - Uh-Oh: Silicon Valley is Building a Chinese-style Social Credit System
+  - Uh-Oh: Silicon Valley is Building a Chinese-style Social Credit System
 
 -  Reference or article citation.
  - https://www.fastcompany.com/90394048/uh-oh-silicon-valley-is-building-a-chinese-style-social-credit-system
